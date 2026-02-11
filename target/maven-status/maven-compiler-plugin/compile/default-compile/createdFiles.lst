@@ -1,0 +1,12 @@
+com/gothenburg/tax/controller/CongestionTaxController.class
+com/gothenburg/tax/model/TaxRequest.class
+com/gothenburg/tax/model/VehicleType.class
+com/gothenburg/tax/CongestionTaxApplication.class
+com/gothenburg/tax/controller/GlobalExceptionHandler.class
+com/gothenburg/tax/service/CongestionTaxCalculator$TaxResult.class
+com/gothenburg/tax/model/TaxRuleConfig.class
+com/gothenburg/tax/model/TaxRuleConfig$TimeRange.class
+com/gothenburg/tax/service/CongestionTaxCalculator.class
+com/gothenburg/tax/model/TaxResponse.class
+com/gothenburg/tax/service/TollFreeDateService.class
+com/gothenburg/tax/config/TaxRuleLoader.class

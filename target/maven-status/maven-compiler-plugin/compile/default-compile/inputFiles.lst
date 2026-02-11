@@ -1,0 +1,10 @@
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/CongestionTaxApplication.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/config/TaxRuleLoader.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/controller/CongestionTaxController.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/controller/GlobalExceptionHandler.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/model/TaxRequest.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/model/TaxResponse.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/model/TaxRuleConfig.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/model/VehicleType.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/service/CongestionTaxCalculator.java
+/Users/vp/Projects/xyz/congestion-tax-calculator/src/main/java/com/gothenburg/tax/service/TollFreeDateService.java

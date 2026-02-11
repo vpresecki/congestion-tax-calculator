@@ -1,0 +1,9 @@
+com/gothenburg/tax/service/CongestionTaxCalculatorTest$PostItDates.class
+com/gothenburg/tax/controller/CongestionTaxControllerTest.class
+com/gothenburg/tax/service/CongestionTaxCalculatorTest$SingleChargeRule.class
+com/gothenburg/tax/service/CongestionTaxCalculatorTest$TimeFees.class
+com/gothenburg/tax/service/CongestionTaxCalculatorTest$TollFreeDates.class
+com/gothenburg/tax/service/TollFreeDateServiceTest.class
+com/gothenburg/tax/service/CongestionTaxCalculatorTest$TollFreeVehicles.class
+com/gothenburg/tax/service/CongestionTaxCalculatorTest.class
+com/gothenburg/tax/service/CongestionTaxCalculatorTest$DailyCap.class
